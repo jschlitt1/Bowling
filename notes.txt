@@ -1,0 +1,17 @@
+game
+
+
+players
+scoreboard
+
+no 
+	pins
+
+frame
+	2 turns
+
+scoreing
+strike
+	next two frames
+spare
+	next frame
