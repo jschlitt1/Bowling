@@ -1,3 +1,7 @@
+import java.util.Scanner;
+
 public class Main {
-    //Some comment
+    public static void Main(String args[]){
+
+    }
 }
