@@ -11,4 +11,12 @@ public class ScoreBoard {
             System.out.println("Second Score" + frame.getSecondScore());
         }
     }
+
+    //FrameList - 1 = Position in array
+    public void EditScore(int FrameNumber, int Turn, int Score){
+        if(Turn == 1 && Score == 10){
+
+        }else if(Turn ==2 && ){}
+
+    }
 }

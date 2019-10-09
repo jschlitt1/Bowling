@@ -9,6 +9,14 @@ public class Frame {
     public Frame(int num){
         this.num = num;
     }
+
+    public void setFirstScore(int score){
+        this.Score1 = score;
+    }
+    public void setSecondScore(int score){
+        this.Score2 = score;
+    }
+
     public char getFirstScore(){
         if(this.strike){
             return 'X';
