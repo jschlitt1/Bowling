@@ -17,7 +17,7 @@ public class Main {
             userinput = keyboard.nextInt();
         }
         else if (userinput > 10){
-            System.out.println("Error! Please enter your actual score?");
+            System.out.println("Error! Please enter your actual score!");
         }
         else {
             System.out.println("You got a Strike congrats!");
@@ -32,7 +32,7 @@ public class Main {
             userinput2 = keyboard.nextInt();
         }
         else if ( userinput2 > 10){
-            System.out.println("Error! Please ");
+            System.out.println("Error! Please enter your actual score!");
         }
         else {
             System.out.println("You got a Strike congrats!");
