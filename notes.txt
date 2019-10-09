@@ -15,3 +15,23 @@ strike
 	next two frames
 spare
 	next frame
+
+Player enter there score
+
+num1 + num2 != 10
+
+if num1 == 10
+	strike
+	break;
+
+if num1 + num2 = 10
+	spare
+
+
+if not = 10 ever run right away
+frameTotal(numofFrame);
+
+if 10 deside if strike or spare in order to know when to call
+
+only 2 players
+
